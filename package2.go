@@ -1,5 +1,5 @@
 package package2
 
-func package2Function() string {
+func Package2Function() string {
 	return "Package2 output"
 }
